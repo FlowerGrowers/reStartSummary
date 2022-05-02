@@ -30,6 +30,6 @@ vite create vue2
 underfin/vite-plugin-vue2
 
 vite create react
-react-refresh
+~~react-refresh~~import react from '@vitejs/plugin-react'
 速度更快
 支持局部更新
