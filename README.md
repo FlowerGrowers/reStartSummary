@@ -16,3 +16,11 @@ you don't know it!
 完全基于 ESM
 减少各类的 loader dev server
 (提前预设好某些东西)
+
+# 03 base use
+
+vite create vue3
+1.0 版本 一开始为其服务的
+2.0 跨框架
+
+入口文件 index html
