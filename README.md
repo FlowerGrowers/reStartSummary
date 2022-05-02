@@ -24,3 +24,7 @@ vite create vue3
 2.0 跨框架
 
 入口文件 index html
+  如何在 vue 中使用 jsx @vitejs/plugin-vue-jsx
+
+vite create vue2
+underfin/vite-plugin-vue2
