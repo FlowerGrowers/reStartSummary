@@ -28,3 +28,8 @@ vite create vue3
 
 vite create vue2
 underfin/vite-plugin-vue2
+
+vite create react
+react-refresh
+速度更快
+支持局部更新
