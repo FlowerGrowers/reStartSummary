@@ -33,3 +33,7 @@ vite create react
 ~~react-refresh~~import react from '@vitejs/plugin-react'
 速度更快
 支持局部更新
+
+# import css
+
+默认是支原生的 css
