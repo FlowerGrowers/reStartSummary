@@ -37,3 +37,6 @@ vite create react
 # import css
 
 默认是支原生的 css
+直接支持 postcss.config.js
+alias
+css-modules vite 默认支持
